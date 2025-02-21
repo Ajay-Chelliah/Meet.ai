@@ -1,4 +1,14 @@
 credentials.json
 token.json
 __pycache__/
+node_modules/
+build/
+dist/
+.DS_Store
+.vscode/
+.idea/
+.env
+*.log
+__pycache__/
+*.pyc
 uploads/
